@@ -87,7 +87,6 @@ h4:hover{
 /*header*/
 .header{
 	background: rgba(255,255,255,.5);
-	padding-bottom: 10px;
 }
 .headerBlock{
 	display: flex;
